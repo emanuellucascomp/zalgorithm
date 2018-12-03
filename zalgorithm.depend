@@ -1,0 +1,20 @@
+# depslib dependency file v1.0
+1537310381 source:c:\users\manu\desktop\algoritmo-z\zalgorithm.c
+	<stdio.h>
+	<stdlib.h>
+
+1542154003 source:c:\users\manu\desktop\apps\algoritmo-z\zalgorithm.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+
+1540734481 source:c:\users\manu\desktop\apps\algoritmo-z\zalgotime.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+
+1540734522 source:c:\users\manu\desktop\apps\algoritmo-z\zalgoinfinity.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+

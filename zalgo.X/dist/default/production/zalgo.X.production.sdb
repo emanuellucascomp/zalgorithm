@@ -1,0 +1,40 @@
+[p LITE_MODE AUTOSTATIC IEEE_DBL IEEE_FLT PIC14 PIC14E ]
+[d version 1.1 ]
+[d edition pro ]
+[d chip 16F18875 ]
+[d frameptr 6 ]
+"10 C:\Program Files (x86)\Microchip\xc8\v2.00\pic\sources\c99\common\sprcadd.c
+[v ___fladd __fladd `(d  1 e 4 0 ]
+"4 C:\Program Files (x86)\Microchip\xc8\v2.00\pic\sources\c99\common\Umul8_16.c
+[v __Umul8_16 _Umul8_16 `(ui  1 e 2 0 ]
+"6 C:\Program Files (x86)\Microchip\xc8\v2.00\pic\sources\c99\pic\__eeprom.c
+[v ___eecpymem __eecpymem `(v  1 e 1 0 ]
+"39
+[v ___memcpyee __memcpyee `(v  1 e 1 0 ]
+"58 C:\Users\Manu\MPLABXProjects\zalgo.X\main.c
+[v _search search `(v  1 e 1 0 ]
+"107
+[v _main main `(i  1 e 2 0 ]
+"56
+[v _saidas saidas `[3]i  1 e 6 0 ]
+"107
+[v _main main `(i  1 e 2 0 ]
+{
+"112
+} 0
+"58
+[v _search search `(v  1 e 1 0 ]
+{
+"68
+[v search@i i `i  1 a 2 4 ]
+"63
+[v search@R R `i  1 a 2 8 ]
+[v search@L L `i  1 a 2 6 ]
+"62
+[v search@n n `i  1 a 2 2 ]
+"64
+[v search@auxiliar auxiliar `i  1 a 2 0 ]
+"60
+[v search@concat concat `DC[3009]uc  1 s 3009 concat ]
+"102
+} 0
